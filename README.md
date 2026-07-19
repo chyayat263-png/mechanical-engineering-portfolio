@@ -98,7 +98,7 @@ This public repository is a concise professional portfolio. Complete thesis docu
 ## Contact
 
 - GitHub: [chyayat263-png](https://github.com/chyayat263-png)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: [Muhammad Jalal](https://www.linkedin.com/in/engrm-jalal-7970463b3)
 
 ## Use notice
 
