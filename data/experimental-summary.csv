@@ -1,0 +1,8 @@
+test_type,structure,absorbed_energy_J,SEA_kJ_per_m2,improvement_vs_bulk_percent,youngs_modulus_MPa,plateau_stress_MPa,max_stress_MPa
+Charpy impact,Bulk reference,0.118,71.50,0,,,
+Charpy impact,Honeycomb,0.223,135.15,89,,,
+Charpy impact,Spiderweb-inspired,0.287,174.00,143,,,
+Charpy impact,Trabecular-inspired,0.245,148.48,108,,,
+Quasi-static compression,Spiderweb-inspired,,,,63.30,3.20,8.94
+Quasi-static compression,Trabecular-inspired,,,,59.53,2.42,6.92
+Quasi-static compression,Hybrid,,,,61.81,2.96,16.04
