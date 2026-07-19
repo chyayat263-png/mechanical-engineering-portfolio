@@ -37,6 +37,8 @@ flowchart TD
 
 ### Key findings
 
+![Experimental performance comparison](assets/results-comparison.svg)
+
 #### Charpy impact performance
 
 | Structure | Absorbed energy (J) | SEA (kJ/m²) | Improvement vs. bulk |
